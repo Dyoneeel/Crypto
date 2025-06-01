@@ -1,0 +1,78 @@
+Build a full-featured, responsive cryptocurrency gaming website called "LuckyLlama Coin (LLAMA)" with a fun, viral, and carnival-style theme.
+
+This project includes:
+
+🎬 1. Loading Page
+Full-screen animated loading page featuring Larry the Lucky Llama doing a goofy carnival dance.
+Display a loading bar styled like a spinning prize wheel.
+Show the message: “Larry’s setting up your luck…”
+Bright and fun music with a mute/unmute toggle.
+
+🔐 2. Login and Register Page
+Two pages: one for login and one for registration.
+Design style: playful carnival ticket booth interface.
+Login page features Larry peeking over the form.
+Register form includes:
+Username
+Email
+Password
+Optional referral code field ("Who invited you to the Llama Party?")
+Add login via Google button
+Add llama-themed error messages (e.g., “Oops! Larry didn’t like that password.”)
+
+🏠 3. Dashboard (Main Hub called “Larry’s Lucky Carnival”)
+Animated carnival grounds with clickable game booths.
+Floating “Task Board” with daily activities:
+“Daily Spit Challenge” (mini puzzle)
+“Check In” for free LLAMA
+“Social Challenge” (post/share to earn)
+“Invite a Llama Buddy” (referral)
+Display current LLAMA balance and Tickets (used for games)
+Larry the mascot follows your cursor, reacts to actions.
+
+💼 4. Wallet Page (Feed Bag)
+Styled like a llama feed bag with coins dropping in/out.
+
+Display:
+LLAMA Balance
+Tickets Balance
+Convert LLAMA to Tickets (1:1)
+Deposit & Withdraw buttons with carnival lever-style animations
+Transaction history in animated scroll or ticket roll
+
+🎰 5. Game Page (Larry’s Casino Booths)
+5 Unique games with interactive interfaces and humorous llama commentary:
+Spitball Slam – Pachinko-style spitball game
+Alpaca Attack – Tower defense game against invading alpacas
+Llama Drama – Meme-filled slot machine
+Fleece Race – Animated llama race with betting
+Probable Llama – Provably fair dice game with commentary
+Players use Tickets to play and can win back LLAMA
+Show live leaderboard on the side with current winners
+
+📊 6. ByteBoard (Leaderboard)
+Carnival scoreboard aesthetic
+Tabs for:
+Top LLAMA Earners
+Top Game Winners
+Top Referrers
+Medals and llama hat icons next to usernames
+
+🎁 7. Viral/Bonus Features
+Random “Llama Delivery” pop-ups with free rewards
+“Find Larry’s Hat” Easter egg mini-quest
+Meme Generator page with image upload and llama-themed stickers
+
+🎨 Style Guide
+Theme: Carnival/county fair with a meme twist
+Mascot: Larry the Lucky Llama appears across pages and interacts with the user
+Color Palette: Bright carnival colors – red, yellow, purple, teal
+Fonts: Playful and bold (like "Luckiest Guy" or "Fredoka")
+Sounds: Background carnival music with toggle, sound effects when earning coins
+Animations: Coin flips, llama dances, carnival lights blinking
+Responsive Design: Fully mobile-friendly and touch-optimized
+
+Notes:
+- Prioritize fun, interactivity, and gamification.
+- Add hover effects and transitions that match the carnival feel.
+- Use Larry's personality throughout the UI—jokes, pop-ups, reactions.

@@ -1,0 +1,143 @@
+"Create a complete, functional LuckyLlama Coin (LLAMA) cryptocurrency website with the following specifications:
+
+Frontend Requirements:
+
+Loading Page:
+
+Animated loading screen featuring Larry the Llama doing a funny dance
+
+Progress bar shaped like a llama tail
+
+Playful carnival music that fades after loading
+
+Login/Register System:
+
+Whimsical carnival-themed forms
+
+Animated llama reactions to user input
+
+Social media login options (styled as carnival tickets)
+
+Password strength meter (displayed as 'Llama Strength')
+
+Main Dashboard:
+
+Interactive carnival midway design
+
+Animated booths for each game section
+
+Larry the Llama mascot that follows cursor
+
+Responsive design for mobile/desktop
+
+Backend Requirements:
+
+PHP/MySQL Database:
+
+User accounts with:
+
+LLAMA balance
+
+Task completion history
+
+Game statistics
+
+Referral links
+
+Transaction ledger
+
+Daily challenge database
+
+Functional Components:
+
+Secure login/registration system
+
+Wallet conversion system (LLAMA ↔ Tickets)
+
+Daily task completion tracker
+
+Referral program calculator
+
+Key Pages to Include:
+
+Loading Screen (animated entry)
+
+Login/Registration (with form validation)
+
+Dashboard (main hub with all features)
+
+Task Center (daily challenges)
+
+Carnival Games (5 game interfaces)
+
+Wallet Page (balance/conversion)
+
+Profile Page (stats/achievements)
+
+Technical Specifications:
+
+HTML5, CSS3 (with animations), JavaScript
+
+PHP backend with MySQL database
+
+AJAX for dynamic content loading
+
+JQuery for interactive elements
+
+Secure password hashing
+
+Session management
+
+Visual Style:
+
+Colorful carnival palette (reds, yellows, blues)
+
+Hand-drawn cartoon aesthetic
+
+Playful animations throughout
+
+Responsive design for all devices
+
+Special Features to Implement:
+
+Larry the Llama mascot that:
+
+Reacts to user actions
+
+Offers tooltips/hints
+
+Celebrates wins
+
+Interactive elements:
+
+Hover effects on all buttons
+
+Animated transitions between pages
+
+Confetti explosions for wins
+
+Sound effects:
+
+Optional llama sounds
+
+Carnival background music
+
+Game-specific audio cues
+
+Deliverables:
+
+Complete source code files organized in standard web structure
+
+SQL database schema
+
+Documentation explaining:
+
+File structure
+
+Key functions
+
+How to deploy
+
+Please ensure all code is cleanly formatted, commented, and follows modern security practices. Include sample test data for demonstration purposes."
+
+Additional Notes for the AI:
